@@ -1,6 +1,6 @@
 <h2 align="center"></h2>
-    <img src="https://i.imgur.com/i4B6jOB.png"/>
-    <br/><br/>
+<img src="/asset/banner.gif"/>    
+<br/><br/>
     <div align="center">
     <a href="https://www.linkedin.com/in/aman-raj-226875339/">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=LinkedIn&message= &style=flat&logo=linkedin&logoColor=939B62&labelColor=black">
@@ -97,7 +97,6 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Prettier-F7BA3E?style=for-the-badge&logo=prettier&logoColor=1A2C34" alt="prettier" />&nbsp;&nbsp;
 </p>
-
 
 <!-- deivder -->
 
