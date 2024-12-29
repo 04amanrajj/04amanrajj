@@ -1,5 +1,5 @@
 <h2 align="center"></h2>
-    <img src="https://i.imgur.com/p4lN3Ro.png"/>
+    <img src="https://i.imgur.com/i4B6jOB.png"/>
     <br/><br/>
     <div align="center">
     <a href="https://www.linkedin.com/in/aman-raj-226875339/">
