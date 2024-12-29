@@ -38,7 +38,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = "33%"/>
 <br /> <br /> <br /> <br />
 
-- 🌱 I’m currently learing **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 some of my projects are available at : [AmanRaj.com](https://04amanrajj.github.io/)
 
