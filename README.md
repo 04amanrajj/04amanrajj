@@ -46,8 +46,6 @@
 
 - 📫 How to reach me **04.aman.raj@gmail.com**
 
-- 📄 Know about my experiences
-
 - 📄 My Resume : [Aman_Raj_Resume](https://drive.google.com/file/d/1ulgsHynUamUKVP8vN-FigiztH0DsHL29/view?usp=sharing)
   <br /> <br />
   <br /> <br />
