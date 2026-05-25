@@ -1,14 +1,17 @@
-<h2 align="center"></h2>
-<img src="/asset/banner.gif"/>    
-<br/><br/>
-    <div align="center">
-    <a href="https://www.linkedin.com/in/aman-raj-226875339/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=LinkedIn&message= &style=flat&logo=linkedin&logoColor=939B62&labelColor=black">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://04amanrajj.github.io/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=portfolio&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/04amanrajj/04amanrajj/main/asset/banner.gif" width="100%" alt="Banner" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aman-raj-226875339/">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?color=black&label=LinkedIn&message= &style=flat&logo=linkedin&logoColor=939B62&labelColor=black">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://04amanrajj.github.io/">
+    <img alt="My Personal Portfolio" src="https://img.shields.io/static/v1?color=black&label=portfolio&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
+  </a>
+</div>
     <br/>
     <p>
       <span>
