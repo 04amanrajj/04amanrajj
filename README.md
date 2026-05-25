@@ -25,17 +25,12 @@
       <br>
     </p>
 
-<!-- deivder -->
-
-<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
-    alt="Git" />
-
+<!-- divider -->
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="8px" alt="divider" />
 <br />
 
-<!-- deivder -->
-<h1 align="center" style="font-family: Bangers, serif; color: white; text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;">
-  <br />
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp; Aman Raj
+<h1 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="icon">&nbsp; Aman Raj
 </h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = "33%"/>
