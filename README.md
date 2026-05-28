@@ -12,18 +12,12 @@
     <img alt="My Personal Portfolio" src="https://img.shields.io/static/v1?color=black&label=portfolio&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
   </a>
 </div>
-    <br/>
-    <p>
-      <span>
-   <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px"
-    alt="Git" /> 
-    <br>
-      </span>
-      <span>
-    <img align="right" width="120px" src="https://komarev.com/ghpvc/?username=04amanrajj&label=Profile%20views&color=939B62&style=flat" alt="04amanrajj" />
-      </span>
-      <br>
-    </p>
+<br/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />
+  <img src="https://komarev.com/ghpvc/?username=04amanrajj&label=Profile%20views&color=939B62&style=flat" alt="04amanrajj" />
+</p>
 
 <!-- divider -->
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="8px" alt="divider" />
@@ -75,40 +69,36 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />  
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />  
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />  
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="aws-s3" />  
+  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare-r2" />  
   <img src="https://img.shields.io/badge/YAML-3C2F2F?style=for-the-badge&logo=yaml&logoColor=white" alt="yaml" />  
 </p>
 
 <h4 align="center">🛠️ Tools & Platforms</h4>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />  
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />  
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />  
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />  
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase" />  
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />  
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />  
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="render" />  
   <img src="https://img.shields.io/badge/NeonDB-87CEE?style=for-the-badge&logo=neondb&logoColor=black" alt="neondb" />  
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="railway" />  
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva" />  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />  
 </p>
-
-<!-- deivder -->
-
-<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
-    alt="Git" />
 
 <br />
 
-<!-- deivder -->
+<!-- divider -->
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="8px" alt="divider" />
+<br />
 
-  <br />
-<p align="center">
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />&nbsp;<i><b>Github : 
-        stats:</b></i>
-  </p>
+<h3 align="center">📊 GitHub Stats</h3>
   <br />
 
 <img align="right" width=200px height=250px alt="side_sticker"
