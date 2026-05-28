@@ -99,65 +99,37 @@
 <br />
 
 <h3 align="center">📊 GitHub Stats</h3>
-  <br />
-
-<img align="right" width=200px height=250px alt="side_sticker"
-  src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<br />
-
-  <p align="">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=04amanrajj&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br /><br />
-
-  </p>
-
-<!-- deivder -->
-
-<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
-    alt="Git" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=04amanrajj&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
 
 <br />
 
-<!-- deivder -->
-  <br />
-
-  <p>
-    <a href="https://github.com/04amanrajj"><span>
-        <img align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=04amanrajj&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
-          alt="ovi" width="45%" />
-          <img align="right"
-          src="https://github-readme-stats.vercel.app/api?username=04amanrajj&show_icons=true&locale=en&theme=github_dark&hide_border=true"
-          alt="ovi" width="45%"  />
-      </span></a>
-  </p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<!-- divider -->
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="8px" alt="divider" />
 <br />
 
-<!-- deivder -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=04amanrajj&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-stats-extended.vercel.app/api?username=04amanrajj&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
-    alt="Git" />
+<br/>
 
+<!-- divider -->
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="8px" alt="divider" />
 <br />
 
-<!-- deivder -->
-<br />
-  
-  <p align="center">
-    <a href="https://github.com/04amanrajj"><span>
-        <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=04amanrajj&theme=github_dark" width="100%" />
-      </span></a>
-  </p>
-  
-  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=04amanrajj&theme=github_dark" width="100%" alt="Profile Summary Cards" />
+</div>
+
 <br />
