@@ -33,20 +33,23 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="icon">&nbsp; Aman Raj
 </h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = "33%"/>
-<br /> <br /> <br /> <br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="33%" alt="developer gif"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 - 🌱 I’m currently learning **Full Stack Web Development**
+- 👨‍💻 Some of my projects are available at: [AmanRaj.com](https://04amanrajj.github.io/)
+- 💬 Ask me about **Node Backend, HTML, CSS, JavaScript**
+- 📫 How to reach me: **04.aman.raj@gmail.com**
+- 📄 My Resume: [Aman_Raj_Resume](https://drive.google.com/file/d/1ulgsHynUamUKVP8vN-FigiztH0DsHL29/view?usp=sharing)
 
-- 👨‍💻 some of my projects are available at : [AmanRaj.com](https://04amanrajj.github.io/)
+</div>
 
-- 💬 Ask me about **Node Backend,Html,Css,JavaScript**
-
-- 📫 How to reach me **04.aman.raj@gmail.com**
-
-- 📄 My Resume : [Aman_Raj_Resume](https://drive.google.com/file/d/1ulgsHynUamUKVP8vN-FigiztH0DsHL29/view?usp=sharing)
-  <br /> <br />
-  <br /> <br />
+<br/>
 
 <!-- divider -->
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="8px" alt="divider" />
